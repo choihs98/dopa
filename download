@@ -1,0 +1,7 @@
+# 비밀 키와 로그는 절대 올리지 않기
+api_key.txt
+dopamine_buddy.log
+build/
+dist/
+*.spec
+__pycache__/
